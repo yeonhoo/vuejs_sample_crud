@@ -2,7 +2,7 @@
 
 ### Introdução
 
-O objetivo dessa aplicação é mostrar funções de CRUD em Vue.js 2 e mostrar 
+O objetivo dessa aplicação é mostrar funções básicas de CRUD em Vue.js 2 e mostrar os componentes definidos e templates associados a estes.
 
 #### Componentes definidos
 
