@@ -102,17 +102,13 @@ var AddProduct = Vue.extend({
 
 #### URL definidos
 
-Lista de produtos => /
-
-Detalhes de um produto => /product/:product_id
-
-Cadastro de um produto => /add-product
-
-Atualização da informação de um produto => /product/:product_id/edit
-
-Remoção de um produto => /product/:product_id/delete
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+| Função                        | URL                         |
+|-----------------------------------------|-----------------------------|
+| Lista de produtos                       | /                           |
+| Detalhes de um produto                  | /product/:product_id        |
+| Atualização da informação de um produto | /product/:product_id/edit   |
+| Remoção de um produto                   | /product/:product_id/delete |
+| Cadastro de um produto                  | /add-product                |
 
 ### Conclusão
 
