@@ -1,5 +1,8 @@
 # Exemplo de aplicação CRUD em Vue.js 2 
 
+[Demo na codepen](https://codepen.io/yeonhoo/pen/aLVXGO)
+
+
 ### Introdução
 
 O objetivo dessa aplicação é mostrar funções básicas de CRUD em Vue.js 2 e mostrar os componentes definidos e templates associados a estes.
