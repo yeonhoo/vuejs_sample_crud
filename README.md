@@ -2,6 +2,7 @@
 
 [Demo na codepen](https://codepen.io/yeonhoo/pen/aLVXGO)
 
+---
 
 ### Introdução
 
